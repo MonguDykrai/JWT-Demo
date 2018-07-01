@@ -56,3 +56,19 @@ verifyToken
 过期
 
 ![](./images/expiresIn_2.png)
+
+JWT
+
+![](./images/JWT.png)
+
+JWT Signature Verify
+
+![](./images/JWT_Signature_Verify.gif)
+
+JWT 会引起 SIGNATURE 发生改变的因素 HEADER、PAYLOAD、密钥
+
+![](./images/会引起_SIGNATURE_发生改变的因素_HEADER_PAYLOAD_密钥.gif)
+
+JWT Header、Loader、Signature 详细说明
+
+![](./images/JWT_三个部分的详细说明.png)
