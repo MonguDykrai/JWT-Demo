@@ -72,3 +72,12 @@ JWT 会引起 SIGNATURE 发生改变的因素 HEADER、PAYLOAD、密钥
 JWT Header、Loader、Signature 详细说明
 
 ![](./images/JWT_三个部分的详细说明.png)
+
+## secret base64 encode
+
+I don't what you're trying to achieve here... base64 encoded keys are usually used when they are not plain strings (like binary content).
+
+![](./images/secret_base64_encode.gif)
+
+secret base64 encode
+<https://github.com/lcobucci/jwt/issues/217>
