@@ -81,3 +81,5 @@ I don't what you're trying to achieve here... base64 encoded keys are usually us
 
 secret base64 encode
 <https://github.com/lcobucci/jwt/issues/217>
+
+<https://jwt.io/>
